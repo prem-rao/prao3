@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Prem! I am a PhD student in the  Atmospheric and Oceanic Sciences Department at the University of Wisconsin-Madison. I am interested in interannual tropical variability and how we expect tropical variability to change in a warming climate. I am using the Coupled Model Intercomparison Project phase 6 (CMIP6) models, which represent the cutting edge of climate models, to investigate how the El-Niño/Southern Oscillation (ENSO) is projected to change. Through the application of Linear Inverse Modeling (LIM), we can get a handle on how ENSO dynamics are changing and provide a better understanding of what the future holds.
+I'm Prem! I am a PhD student in the  Atmospheric and Oceanic Sciences Department at the University of Wisconsin-Madison. I am interested in interannual tropical variability and how we expect tropical variability to change in a warming climate. I am using the Coupled Model Intercomparison Project phase 6 (CMIP6) models, which represent the cutting edge of climate models, to investigate how the Madden-Julian Oscillation (MJO) is projected to change. Through the application of Linear Inverse Modeling (LIM), we can get a handle on how MJO dynamics are changing and provide a better understanding of what the future holds.
 
 ----------------
 
-Take a look at my [website](https://prao3.github.io/)!
+Take a look at my [website](https://prem-rao.github.io/)!
 
 <!--
 **prao3/prao3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
